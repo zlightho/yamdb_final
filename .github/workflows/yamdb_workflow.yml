@@ -61,7 +61,7 @@ jobs:
           tags: a8158d7bb42c/yamdb_final:latest
           context: api_yamdb
   
-deploy:
+  deploy:
     runs-on: ubuntu-latest
     needs: build_and_push_to_docker_hub
     steps:
