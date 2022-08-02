@@ -79,6 +79,9 @@ docker-compose up
 Немков Максим - https://github.com/jamsi-max/
 Шайдуллин Руслан - https://github.com/rusiich
 
+## Адрес-сервера
+http://51.250.107.91/
+
 ## Лицензия
 
 MIT
