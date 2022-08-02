@@ -13,7 +13,7 @@ SECRET_KEY = os.environ.get(
 )
 SECRET_EMAIL = os.environ.get("EMAIL")
 
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
 
